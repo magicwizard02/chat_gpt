@@ -1,8 +1,7 @@
 
-ChatGPT-Based LLM Chatbot
+**ChatGPT-Based LLM Chatbot**
 An AI-powered chatbot leveraging OpenAI's API, LangChain, and FAISS for intelligent document-based conversations.
 
-Overview
 This project builds a Conversational AI Assistant using LangChain, FAISS, OpenAI’s API, and Streamlit. It allows users to upload documents, retrieve information using Retrieval-Augmented Generation (RAG), and interact with the chatbot dynamically.
 
 Features
